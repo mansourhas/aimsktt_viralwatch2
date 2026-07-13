@@ -25,7 +25,7 @@ mkdir -p tests
 
 
 Your structure:
-
+```
 BDBV2026-Project/
 │
 ├── data/
@@ -42,7 +42,7 @@ BDBV2026-Project/
 │
 ├── requirements.txt
 └── .venv/
-
+```
 Step 2 — Create the Bash setup script
 
 Create:
