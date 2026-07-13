@@ -8,10 +8,10 @@ creat bash
 Step 1 — Create your project repository structure
 
 From your terminal:
-
+```
 mkdir aimsktt_viralwatch2
 cd aimsktt_viralwatch2
-
+```
 
 Create folders:
 
